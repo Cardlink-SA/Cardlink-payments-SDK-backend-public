@@ -1,0 +1,9 @@
+{
+    "name": "cardlink/payments-sdk-php",
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "alcohol/iso4217": "^4.0",
+        "league/iso3166": "^4.2"
+    }
+}

@@ -1,0 +1,13 @@
+@import "https://ecommerce-test.cardlink.gr/vposart/cardlink/v2/css/styles_main.css";
+
+div#PaymentInfo1 {
+    display: none;
+}
+
+div#PaymentInfo1+table+p {
+    display: none;
+}
+
+div#PaymentInfo1+table+p+ul {
+    display: none;
+}
